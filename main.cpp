@@ -1,6 +1,5 @@
 #include<iostrem>
 using namespace std;
-
 void sortfast(int arr[],int i,int j)
 {
     int val=arr[i];
